@@ -4,3 +4,4 @@ Date: September 10, 2017
 This is my first text document for one of Dr. Musick’s Media Arts courses.
 
 I added this new line using my text editor!!!
+Tis a new day in Atom
