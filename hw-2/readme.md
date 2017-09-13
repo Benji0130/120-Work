@@ -30,4 +30,4 @@ alert(s);
 **bold**
 *asterisk*
 
-![Image of my Editor](Screen Shot.jpg)
+![Image of my Editor](ScreenShot.png)
