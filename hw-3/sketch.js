@@ -5,5 +5,5 @@ funtion setup() {
 createCanvas( 600, 400 );
 
 // color the background 'pink'
-background( 'pink');
+background( 'pink' );
 }
